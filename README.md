@@ -64,7 +64,7 @@ Domain | My Expertise
   <img height="235em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaGirishNaik&theme=algolia&hide_border=true" alt="AtharvaGirishNaik"/>
   
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=AtharvaGirishNaik&label=Profile%20Views&color=0&icon=0&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=sanket95droid&label=Profile%20Views&color=0&icon=0&pretty=true" />
 </a>
 
 
